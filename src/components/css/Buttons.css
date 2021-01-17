@@ -1,0 +1,44 @@
+.all-contacts-btn {
+    background-color: #46139f;
+    color: white;
+}
+
+.us-contacts-btn {
+    background-color: #ff7f50;
+    color: white;
+}
+
+.close-btn {
+    border: 1px solid #46139f;
+    background-color: white;
+    color: #46139f;
+}
+
+.all-contacts-btn:hover {
+    background-color: #5b2aaf;
+    color: white;
+}
+
+.us-contacts-btn:hover {
+    background-color: #f8885f;
+    color: white;
+}
+
+.close-btn:hover {
+    border: 1px solid #46139f;
+    background-color: white;
+    color: #5d2cb1;
+}
+
+.buttons-block {
+    position: absolute;
+    height: 38px;
+    width: 180px;
+    top: 50%;
+    margin-top: -19px;
+    left: 50%;
+    margin-left: -90px;
+    display: flex;
+    justify-content: space-between;
+}
+

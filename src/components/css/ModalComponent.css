@@ -1,0 +1,17 @@
+.onloading {
+    filter: blur(1px);
+}
+
+.scrollbar-content {
+    padding: 1rem;
+}
+
+.modal-body {
+    padding: 0;
+}
+
+.even-checkbox {
+    align-self: center;
+    position: absolute;
+    left: 12px;
+}
